@@ -1,0 +1,3 @@
+module ItemModule {
+    exports itempackage;
+}

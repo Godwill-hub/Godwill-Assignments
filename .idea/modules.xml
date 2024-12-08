@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ItemModule/ItemModule.iml" filepath="$PROJECT_DIR$/ItemModule/ItemModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Modules Task.iml" filepath="$PROJECT_DIR$/Java Modules Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestingModule/TestingModule.iml" filepath="$PROJECT_DIR$/TestingModule/TestingModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionModule/TransactionModule.iml" filepath="$PROJECT_DIR$/TransactionModule/TransactionModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserModule/UserModule.iml" filepath="$PROJECT_DIR$/UserModule/UserModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilityModule/UtilityModule.iml" filepath="$PROJECT_DIR$/UtilityModule/UtilityModule.iml" />
+    </modules>
+  </component>
+</project>

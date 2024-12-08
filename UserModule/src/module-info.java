@@ -1,0 +1,3 @@
+module UserModule {
+  exports userpackage;
+}
